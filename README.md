@@ -1,6 +1,15 @@
 # Guilherme Pontes
 
-Sou o Guilherme, formado em ADS (Análise e Desenvolvimento de Sistemas) e Pós-Graduado em Gestão de Pessoas e Negócios. Atualmente atuo na área de TI como Analista de Sistema MES (Manufacturing Execution System) e já estou no mercado a quase 5 anos. Recentemente tomei a decisão de me aprofundar nos estudos para a área de Big Data & IA Machine Learning, com o objetivo de alcançar minha primeira oportunidade nessa área. A DIO tem feito parte dessa trilha de aprendizagem e tem feito a diferença!
+Sou o Guilherme, formado em ADS (Análise e Desenvolvimento de Sistemas) e Pós-Graduado em Gestão de Pessoas e Negócios. Apaixonado por dados, tecnologia e inovação, estou em transição para a área de Engenharia e Ciência de Dados.
+
+Com mais de 4 anos de experiência no setor farmacêutico, atuei diretamente em automação de processos, análise de dados, governança e otimização de sistemas, utilizando SQL, Power BI e metodologias ágeis para melhorar fluxos de trabalho e garantir a integridade dos dados.
+
+Atualmente, estou aprimorando minhas habilidades em bancos de dados, ETL, modelagem de dados e ciência de dados através de cursos e projetos práticos. No meu dia a dia, trabalho com SQL para manipulação de dados, desenvolvimento de dashboards e gestão de sistemas MES, contribuindo para a tomada de decisão baseada em dados.
+
+🔹 Habilidades principais: SQL, Power BI, ETL, Governança de Dados (GxP, CSV), Metodologias Ágeis, ITIL, ServiceNow.  
+🔹 Atualmente estudando: Python, Engenharia de Dados, Ciência de Dados, Big Data, Cloud (AWS/GCP/Azure), MS Copilot, Docker e Kubernetes.  
+
+Estou em busca de oportunidades para aplicar e expandir meus conhecimentos em Engenharia de Dados e Ciência de Dados. Com boa comunicação, pensamento analítico, curiosidade e espírito colaborativo, acredito que dados são a chave para decisões estratégicas e otimização de processos. Se você procura um profissional proativo e com experiência em processos orientados a dados, vamos conversar!
 
 ### Conecte-se comigo
 
@@ -24,4 +33,5 @@ Sou o Guilherme, formado em ADS (Análise e Desenvolvimento de Sistemas) e Pós-
 ### Meus Principais Desafios de Projeto DIO
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
+[![Repo Trilha de Aprendizagem Python](https://github-readme-stats.vercel.app/api/pin/?username=QU4TR0&repo=Trilha-Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/QU4TR0/Trilha-Python)
+[![Repo Trilha de Aprendizagem Python](https://github-readme-stats.vercel.app/api/pin/?username=QU4TR0&repo=image-processing-package&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/QU4TR0/image-processing-package)
