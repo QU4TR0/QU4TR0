@@ -1,6 +1,6 @@
 # Guilherme Pontes
 
-Sou o Guilherme, formado em ADS (Análise e Desenvolvimento de Sistemas) e Pós-Graduado em Gestão de Pessoas e Negócios. Apaixonado por dados, tecnologia e inovação, estou em transição para a área de Engenharia e Ciência de Dados.
+Sou o Guilherme, estudante de Engenharia da Computação, formado em ADS (Análise e Desenvolvimento de Sistemas) e Pós-Graduado em Gestão de Pessoas e Negócios. Apaixonado por dados, tecnologia e inovação, estou em transição para a área de Engenharia e Ciência de Dados.
 
 Com mais de 4 anos de experiência no setor farmacêutico, atuei diretamente em automação de processos, análise de dados, governança e otimização de sistemas, utilizando SQL, Power BI e metodologias ágeis para melhorar fluxos de trabalho e garantir a integridade dos dados.
 
